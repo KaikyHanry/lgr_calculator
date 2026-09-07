@@ -430,8 +430,9 @@ def desenhar_lgr_fundo(ax, todas_raizes, xl, yl):
 # ============================================================
 
 st.title("Calculadora Lugar das Raízes (LGR)")
-st.subheader("Projeto de Sistemas de Controle - Unidade 1")
-st.caption("Discente: Kaiky Hanry Alencar Fernandes")
+st.subheader("Projeto para disciplina de Sistemas de Controle - UFRN")
+st.text("Calculadora interativa para análise do Lugar Geométrico das Raízes (LGR), com cálculos passo a passo, visualização dos polos e zeros, assíntotas, pontos de breakaway/break-in, análise de estabilidade e critérios de ângulo e módulo.")
+st.caption("Desenvolvido por Kaiky Hanry Alencar Fernandes - 2026")
 
 st.markdown("""
 <style>
